@@ -4,7 +4,7 @@ Simple tool to clear & and populate your mongo db written in Typescript.
 
 ## Installation
 
-```typescript
+```
 yarn add -D mongoose-seed-2
 ```
 
