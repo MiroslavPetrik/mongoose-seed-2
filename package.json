@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "chalk": "^2.4.2",
-    "mongoose": "^5.6.7"
+    "mongoose": "^5.7.5"
   },
   "jest": {
     "testEnvironment": "node"
